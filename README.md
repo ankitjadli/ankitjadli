@@ -6,9 +6,9 @@
   <img align="left" alt="Ankit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br />
 
-Hi, I'm Ankit Jadli!, persuing MCA from BVICAM.
+<br>
+Hi, I'm Ankit Jadli!, persuing MCA from BVICAM
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -23,13 +23,9 @@ Hi, I'm Ankit Jadli!, persuing MCA from BVICAM.
 
 
 
-
-
+<br>
 📈 My GitHub Stats
-
-
-
-
+<br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ankitjadli&show_icons=true&theme=gotham" alt="ankitjadli" />
 
 
