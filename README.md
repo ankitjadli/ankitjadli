@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Custom Size – 1@2x](https://user-images.githubusercontent.com/37221963/103421049-62e65b80-4bc0-11eb-84ff-a56455c1ccab.png)
 <!--
 **ankitjadli/ankitjadli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
