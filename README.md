@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/ankitjadli">
+<a href="https://twitter.com/jadli1999">
   <img align="left" alt="Ankit Jadli | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ankitjadli/">
@@ -17,7 +17,7 @@ Hi, I'm Ankit Jadli!, persuing MCA from BVICAM
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Fullstack Web dev; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@ankitjadli](https://twitter.com/ankitjadli);
+- 📫 How to reach me: [@jadli1999](https://twitter.com/jadli1999);
 - 📝[Resume](https://drive.google.com/file/d/1cRKAcCtEtVDRNS2Ll_z5DQw7XPDoTqCm/view?usp=sharing)
 
 
