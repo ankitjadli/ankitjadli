@@ -18,7 +18,7 @@ Hi, I'm Ankit Jadli!, pursuing MCA from BVICAM
 - 🌱 I’m currently learning Fullstack Web dev; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@jadli1999](https://twitter.com/jadli1999);
-- 📝[Resume](https://drive.google.com/file/d/1cRKAcCtEtVDRNS2Ll_z5DQw7XPDoTqCm/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1VmWKOg6sh4jLIDs2GIrW9xMFFmD15qvV/view?usp=sharing)
 
 
 
