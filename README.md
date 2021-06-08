@@ -8,24 +8,13 @@
 
 
 <br>
-Hi, I'm Ankit Jadli!, pursuing MCA from BVICAM
-
+Hi, I'm Ankit Jadli!, pursuing MCA from BVICAM,
+ <a><img src="https://github-readme-stats.vercel.app/api?username=ankitjadli&show_icons=true&theme=gotham" alt="ankitjadli" /></a>
+  
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Fullstack Web dev; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@jadli1999](https://twitter.com/jadli1999);
+- 👨🏽‍💻 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning Fullstack Web dev
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: [@jadli1999](https://twitter.com/jadli1999)
 - 📝[Resume](https://drive.google.com/file/d/1d2AoXoZMyiM3U6FdnkWZwt18JssBnx15/view?usp=sharing)
-
-
-
-
-<br><br>
-📈 My GitHub Stats
-<br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ankitjadli&show_icons=true&theme=gotham" alt="ankitjadli" />
-
-
-
-
