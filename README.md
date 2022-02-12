@@ -8,7 +8,7 @@
 
 
 <br>
-Hi, I'm Ankit Jadli!, pursuing MCA from BVICAM,
+Hi, I'm Ankit Jadli!, Associate Software Engineer at IVP.
  <a><img src="https://github-readme-stats.vercel.app/api?username=ankitjadli&show_icons=true&theme=gotham" alt="ankitjadli" /></a>
   
 **Talking about Personal Stuffs:**
